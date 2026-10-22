@@ -1,2 +1,2 @@
 Welcome to Git.
-This is the main branch version.
+This is the final merged version.
